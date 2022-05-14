@@ -33,6 +33,8 @@ system_restricted_prop(vendor_bt_prop)
 
 system_public_prop(vendor_sys_video_prop)
 
+system_restricted_prop(vendor_persist_camera_prop)
+
 system_restricted_prop(vendor_wlc_prop)
 
 system_public_prop(vendor_fm_prop);
